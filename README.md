@@ -28,12 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](.design/active-states.jpg)
+![](.design/mobile-design.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Product preview card component](https://github.com/babyloot/Product-preview-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
