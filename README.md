@@ -28,14 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](.design/active-states.jpg)
-![](.design/mobile-design.jpg)
+![](./design/active-states.jpg)
+![](./design/mobile-design.jpg)
 
 
 ### Links
 
 - Solution URL: [Product preview card component](https://github.com/babyloot/Product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Frontend Mentor | Product preview card component](https://babyloot.github.io/Product-preview-card-component/)
 
 ## My process
 
